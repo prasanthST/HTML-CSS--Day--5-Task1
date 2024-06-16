@@ -16,3 +16,4 @@ This structure forms the basic building blocks of a web page layout, allowing fo
 ## Responsive Design with Bootstrap
 
 Bootstrap is a front-end framework designed to create responsive and mobile-first websites efficiently.
+using bootstarp class for an a responsive website .
