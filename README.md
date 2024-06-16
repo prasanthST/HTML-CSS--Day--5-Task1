@@ -13,3 +13,6 @@ I have successfully completed a task named **"Mini Project"** which involved usi
   - Inserted a `p` (paragraph) tag within the `div` to hold textual content or information.
 
 This structure forms the basic building blocks of a web page layout, allowing for organized content and styling opportunities with CSS.
+## Responsive Design with Bootstrap
+
+Bootstrap is a front-end framework designed to create responsive and mobile-first websites efficiently.
